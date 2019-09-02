@@ -1,0 +1,5 @@
+package paintdom
+
+func Main() {
+
+}
